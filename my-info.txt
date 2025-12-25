@@ -1,0 +1,3 @@
+Name: Fran Mateos 
+Favorite Programming Language: Python or C++
+Why am I leaning git: Very good way to do version control, team work and safe software developing.
